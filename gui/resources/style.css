@@ -1,0 +1,15 @@
+.sidebar-bg {
+    background: #1e1e1e;
+}
+
+list row:selected {
+    background-color: #3a3a3a;
+}
+
+list row:hover {
+    background-color: #2a2a2a;
+}
+
+label {
+    font-size: 14px;
+}
